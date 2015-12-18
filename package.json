@@ -1,0 +1,28 @@
+{
+  "name": "aynrandalthor",
+  "version": "1.0.0",
+  "description": "@aynrandalthor twitter bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardLitt/aynrandalthor.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot"
+  ],
+  "author": "Richard Littauer <richard.littauer@gmail.com> (http://burntfen.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RichardLitt/aynrandalthor/issues"
+  },
+  "homepage": "https://github.com/RichardLitt/aynrandalthor#readme",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "node-twitterbot": "^0.2.2",
+    "random-js": "^1.0.8"
+  }
+}
