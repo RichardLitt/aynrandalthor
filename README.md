@@ -1,5 +1,7 @@
 # Ayn Rand al'Thor
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/aynrandalthor.svg)](https://greenkeeper.io/)
+
 This is a twitter bot for Ayn Rand, and Rand al'Thor.  
 Need I rhyme, or say some more?
 
